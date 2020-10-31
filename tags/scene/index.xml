@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Home</title>
+    <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Health Care</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 14 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-1/</guid>
+      <description>This project aims to provide Humana Healthcare with more profound and broader insights into what traits and characteristics most associate with patients&amp;rsquo; likelihood of having transportation issues that prevent them from getting to medical appointments, meetings, work, or getting necessities for daily living. The second aim is to provide accurate predictions on which patients will most likely have issues with transportation.
+The generalized linear model will determine the most influential variables from 826 available variables provided by the competition committee.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Higher Ed</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 12 Mar 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-4/</guid>
+      <description>This project solely focuses on predicting which individuals related to the University - students, alumni, staffs, former staffs, etc - that will most likely donate their assets and/or money to the University.
+The main challenge of this project is that there is only a handful of the observations that has donated to the university, in other words there is a huge imbalance in the proportion of the target variables. Less than 1% of the total observations have donated to the University and more than 99% have not.</description>
+    </item>
+    
+  </channel>
+</rss>

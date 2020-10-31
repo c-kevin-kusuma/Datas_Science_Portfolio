@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Health Care</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 14 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-1/</guid>
+      <description>This project aims to provide Humana Healthcare with more profound and broader insights into what traits and characteristics most associate with patients&amp;rsquo; likelihood of having transportation issues that prevent them from getting to medical appointments, meetings, work, or getting necessities for daily living. The second aim is to provide accurate predictions on which patients will most likely have issues with transportation.
+The generalized linear model will determine the most influential variables from 826 available variables provided by the competition committee.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Tourism</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 25 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-2/</guid>
+      <description>This project will create a professional and valuable analysis from customers&amp;rsquo; reviews on specific products/activities of Polynesian Cultural Center, a cultural theme park in Hawaii. While primarily designed to fulfill a required course work from MKTG 6640, this project&amp;rsquo;s secondary role is to be used by the management of the Polynesian Cultural Center as a credible reference for their pursuit of service excellence. Through its CMO/vice president, the company has agreed to grant access to a subset of its customer satisfaction survey data for this project.</description>
+    </item>
+    
+    <item>
+      <title>Project III: COVID-19</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 15 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-3/</guid>
+      <description>CLICK on the picture below for YouTube Video of my analysis: 
+ The data for this project is taken from Kaggle for covid-19 patients in South Korea between 1/20/2020 to 3/30/2020. The dataset has provided a source of interesting insights drawn through data analysis using DOMO, one of the leading business intelligence tools in its industry.
+The insights encompass interesting information/ recommendations such as who are most vulnerable to covid-19 infection, how to contain the wide-spread of the virus, and what efforts the South Korean Government took to flatten the curve.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Higher Ed</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 12 Mar 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-4/</guid>
+      <description>This project solely focuses on predicting which individuals related to the University - students, alumni, staffs, former staffs, etc - that will most likely donate their assets and/or money to the University.
+The main challenge of this project is that there is only a handful of the observations that has donated to the university, in other words there is a huge imbalance in the proportion of the target variables. Less than 1% of the total observations have donated to the University and more than 99% have not.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Diversity &amp; Inclusivity</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 13 Apr 2018 11:15:58 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-5/</guid>
+      <description>This project is meant to provide an intuitive Tableau dashboard for internal and public audiences. The dashboard includes the demographic elements of the university community and the students&amp;rsquo; experiences of sexual assaults/harassments on and around campus .
+ Quick Glance of the Tableau Dashboard   </description>
+    </item>
+    
+    <item>
+      <title>Project VI: In Progress</title>
+      <link>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://c-kevin-kusuma.github.io/Datas_Science_Portfolio/post/project-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
